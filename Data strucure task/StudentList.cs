@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Cse111Task1
 {
-    internal class StudentList
+    public class StudentList
     {
         public Student? First { get; set; }
         public Student? Last { get; set; }
